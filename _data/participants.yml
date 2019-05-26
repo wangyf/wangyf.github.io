@@ -34,13 +34,17 @@
   photo: parYC.jpg
   info: San Diego Supercomputer Center
 
-- name: James Dieterich
-  photo: parJD.jpg
-  info: University of California, Riverside
-
 - name: Luis Dalguer
   photo: parLD.jpg
   info: 3Q-Lab GmbH
+
+- name: Marine Denolle
+  photo: parMD.jpg
+  info: Harvard University
+
+- name: James Dieterich
+  photo: parJD.jpg
+  info: University of California, Riverside
 
 - name: Eric Dunham
   photo: parED.jpg

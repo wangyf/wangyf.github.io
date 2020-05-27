@@ -17,6 +17,26 @@
 #   news2link: 
 #	PDF
 
+- title: "Effects of off‐fault inelasticity on near‐fault directivity pulses"
+  journal: Journal of Geophysical Research-Solid Earth
+  volume: xxx, xxx
+  doi: 10.1029/2019JB019074
+  year: 2020
+  image: wangday20.jpg
+  description: 
+  key1: Off-fault plasticity reshapes directivity pulses by reducing peak velocity and increasing dominant period  
+  key2: Yielding causes peak ground velocity to saturate with respect to increases in both stress drop and epicentral distance
+  key3: Off-fault plasticity suppresses the high-frequency fault-parallel pulses that otherwise develop when rupture breaks free surface
+  authors: <strong>Yongfei Wang</strong> and Steven M. Day
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB019074
+    display:  doi:10.1029/2019JB019074
+  highlight: 1
+  news2: 
+  news2link: 
+  pdf: wangday20.pdf
+  cat: journal
+
 - title: "Geometric Controls on Pulse‐Like Rupture in a Dynamic Model of the 2015 Gorkha Earthquake"
   journal: Journal of Geophysical Research-Solid Earth
   volume: 124(1), 1544-1568

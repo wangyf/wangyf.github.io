@@ -69,6 +69,21 @@ Since [Zheqiang Shi](https://www.scec.org/user/zheqians), [Brittany Erickson](ht
 ![]({{ site.url }}{{ site.baseurl }}/images/software/SORD-Benchmark.svg){: style="width: 300px; float: center; border: 100px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/software/Frontera.jpg){: style="width: 400px; float: center; border: 100px"}
 
+
+## Simulation examples
+--------------------------------------------------
+### 1992 Landers Earthquake Scenario
+#### Fault roughness + off-fault plasticity
+
+![]({{ site.url }}{{ site.baseurl }}/images/software/Landers-rough-scenario.png){: style="width: 600px; float: center; border: 100px"}
+<iframe width="300" height="400" src="https://www.youtube.com/embed/pbOSKR2AffI" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" height="400" src="https://www.youtube.com/embed/WN4AjOXhevw" frameborder="0" allowfullscreen></iframe>
+
+#### Ground-motion sanity check
+
+![]({{ site.url }}{{ site.baseurl }}/images/software/Landers-rough-scenario-sanity.png){: style="width: 600px; float: center; border: 100px"}
+
+
 ## Development logs
 - Aug 21, 2018 Add frequency-dependent attenuation (to be checked by AWP benchmark)
 - Aug 23, 2018 Add a function to exert a point source by setting strike, dip, rake and moment.

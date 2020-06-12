@@ -36,6 +36,7 @@ I'm a Postdoc Scholar at [<span style="color:red">*Southern California Earthquak
 <br>
 
 #### **Research Area:**  
+* Earthquake Surface Rupture  
 * Earthquake Rupture Dynamics
 * Earthquake Strong Ground Motion
 * High-performance Computation

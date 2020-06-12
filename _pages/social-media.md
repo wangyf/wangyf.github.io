@@ -8,10 +8,10 @@ permalink: /social-media.html
 
 <div class="col-sm-8 clearfix">
 <a href="https://www.facebook.com/yongfei.wang"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FB.png" class="img-responsive" width="60px" style="float: left" /></a> 
-<a href="https://https://github.com/wangyf"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GH.png" class="img-responsive" width="60px" style="float: left" /></a>
+<a href="https://github.com/wangyf"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GH.png" class="img-responsive" width="60px" style="float: left" /></a>
 <a href="https://www.researchgate.net/profile/Yongfei_Wang3"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RG.png" class="img-responsive" width="60px" style="float: left" /></a>
-<a href="https://https://twitter.com/newsettler123"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TT.png" class="img-responsive" width="60px" style="float: left" /></a>
-<a href="https://https://www.youtube.com/channel/UC6_li0YehJfBL6lEJ5Rtjhw"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/YT.png" class="img-responsive" width="60px" style="float: left" /></a>
+<a href="https://twitter.com/newsettler123"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TT.png" class="img-responsive" width="60px" style="float: left" /></a>
+<a href="https://www.youtube.com/channel/UC6_li0YehJfBL6lEJ5Rtjhw"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/YT.png" class="img-responsive" width="60px" style="float: left" /></a>
 </div>
 
 <br>

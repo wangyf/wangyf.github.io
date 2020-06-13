@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <br/>
-![]({{ site.url }}{{ site.baseurl }}/images/portrait.jpg){: style="width: 400px; float: center; border: 100px"}
+![]({{ site.url }}{{ site.baseurl }}/images/portrait.png){: style="width: 200px; float: center; border: 100px"}
 <br/>
 <br/>
 

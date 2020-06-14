@@ -1,6 +1,6 @@
 ---
 title: "Yongfei's Social Media"
-layout: textlay
+layout: sociallay
 excerpt: "AOA"
 sitemap: true
 permalink: /social-media.html

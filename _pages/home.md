@@ -27,23 +27,27 @@ I'm a Postdoc Scholar at [<span style="color:red">*Southern California Earthquak
 
 
 
+<br>
 
 
 <!-- <br/>
 ![]({{ site.url }}{{ site.baseurl }}/images/portrait.png){: style="width: 200px; float: center; border: 100px"}
 <br/>
 <br/> -->
-
-<div class="col-sm-3">   
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scec.png" style="width: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usc.jpg" style="width: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scripps.png" style="width: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" style="width: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sdsu.png" style="width: 100px">
+<div class="row">
+<div class="col-md-15">  
+<h1> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scec.png" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usc.jpg" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scripps.png" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sdsu.png" style="height: 100px">
+</h1>
+</div>
 </div>
 
 <br>
-<br>
+
 #### **Eduction**
 * Ph.D in Geophysics (2019)<br/>
     Joint UCSD/SDSU Geophysics PhD Program<br/>

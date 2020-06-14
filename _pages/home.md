@@ -6,10 +6,33 @@ sitemap: false
 permalink: /
 ---
 
+
+
+
+<div class="row">
+  <div class="col-md-4">
+<img src="{{ site.url }}{{ site.baseurl }}/images/portrait.png" style="width: 200px">
+  </div>
+  <div class="col-md-8">
+
 <br/>
+<br/>
+<br/>
+
+#### **About me**
+
+I'm a Postdoc Scholar at [<span style="color:red">*Southern California Earthquake Center (SCEC)*</span>](https://www.scec.org), [<span style="color:red">*University of Southern California*</span>](https://www.usc.edu). I work on observability of rupture dynamics and earthquake ground-motion and fault-displacement simulations
+  </div>
+</div>
+
+
+
+
+
+<!-- <br/>
 ![]({{ site.url }}{{ site.baseurl }}/images/portrait.png){: style="width: 200px; float: center; border: 100px"}
 <br/>
-<br/>
+<br/> -->
 
 <div class="col-sm-3">   
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scec.png" style="width: 100px">
@@ -19,8 +42,6 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sdsu.png" style="width: 100px">
 </div>
 
-#### **About me**
-I'm a Postdoc Scholar at [<span style="color:red">*Southern California Earthquake Center (SCEC)*</span>](https://www.scec.org), [<span style="color:red">*University of Southern California*</span>](https://www.usc.edu). I work on observability of rupture dynamics and earthquake ground-motion and fault-displacement simulations
 <br>
 <br>
 #### **Eduction**

@@ -35,14 +35,12 @@ I'm a Postdoc Scholar at [<span style="color:red">*Southern California Earthquak
 <br/>
 <br/> -->
 <div class="row">
-<div class="col-md-15">  
-<h1> 
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scec.png" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usc.jpg" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scripps.png" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sdsu.png" style="height: 100px">
-</h1>
+<div class="col-md-15">   
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scec.png" class="img-rounded" alt="Responsive image" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usc.jpg" class="img-rounded" alt="Responsive image" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scripps.png" class="img-rounded" alt="Responsive image" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" class="img-rounded" alt="Responsive image" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sdsu.png" class="img-rounded" alt="Responsive image" style="height: 100px">
 </div>
 </div>
 

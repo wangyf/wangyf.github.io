@@ -66,7 +66,10 @@ permalink: /publications/
 ------------------
 {% for publi in site.data.publist %}
 {% if publi.cat == "journal"%}
-  {{ publi.authors }} (<em>{{ publi.year }}</em>) <em>{{publi.journal}}</em>, {{publi.volume}}, <a href="https://doi.org/{{ publi.doi }}">doi:{{ publi.doi }}</a>  [<strong>PDF</strong>]({{ site.baseurl }}/pdf/{{publi.pdf}})
+  {{ publi.authors }} (<em>{{ publi.year }}</em>), {{ publi.title }}, <em>{{publi.journal}}</em>, {{publi.volume}}, <a href="https://doi.org/{{ publi.doi }}">doi:{{ publi.doi }}</a>  [<strong>PDF</strong>]({{ site.baseurl }}/pdf/{{publi.pdf}})
+{% endif %}
+{% if publi.cat == "submitted"%}
+  {{ publi.authors }} (<em>{{ publi.year }}</em>), {{ publi.title }}, <em>{{publi.journal}}</em>, {{publi.volume}}
 {% endif %}
 {% endfor %}
 
@@ -76,7 +79,7 @@ permalink: /publications/
 ------------------
 {% for publi in site.data.publist %}
 {% if publi.cat == "nonjournal"%}
-  {{ publi.authors }} (<em>{{ publi.year }}</em>) <em>{{publi.journal}}</em>, {{publi.volume}}, <a href="{{publi.link.url}}">{{ publi.link.url }}</a> [<strong>PDF</strong>]({{ site.baseurl }}/pdf/{{publi.pdf}}) 
+  {{ publi.authors }} (<em>{{ publi.year }}</em>), {{ publi.title }} <em>{{publi.journal}}</em>, {{publi.volume}}, <a href="{{publi.link.url}}">{{ publi.link.url }}</a> [<strong>PDF</strong>]({{ site.baseurl }}/pdf/{{publi.pdf}}) 
 {% endif %}
 {% endfor %}
 

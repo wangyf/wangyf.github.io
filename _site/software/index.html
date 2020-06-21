@@ -54,31 +54,36 @@
 <br /></p>
 
 <hr />
-<p>SORD latest version maintained by Yongfei Wang</p>
+<h2 id="sord-latest-version-maintained-by-yongfei-wang">SORD latest version maintained by Yongfei Wang</h2>
+<blockquote>
+  <p>Source code at <a href="https://github.com/wangyf/sordw3">here</a></p>
+</blockquote>
 
-<h2 id="functional-feature">Functional feature</h2>
+<blockquote>
+  <h2 id="functional-feature">Functional feature</h2>
 
-<h3 id="materials">Materials:</h3>
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Viscoelastic</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Plastoelastic</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Frequency-dependent Anelastic</li>
-</ul>
+  <h3 id="materials">Materials:</h3>
+  <ul class="task-list">
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Viscoelastic</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Plastoelastic</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Frequency-dependent Anelastic</li>
+  </ul>
 
-<h3 id="constitutive-law">Constitutive law</h3>
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Slip weakening</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Regularized rate and state</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Rate strengthening Slip weakening</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Thermal and porelastic response</li>
-</ul>
+  <h3 id="constitutive-law">Constitutive law</h3>
+  <ul class="task-list">
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Slip weakening</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Regularized rate and state</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Rate strengthening Slip weakening</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Thermal and porelastic response</li>
+  </ul>
 
-<h3 id="geometric-structure">Geometric structure</h3>
-<ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Nonplanar fault</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Topographic effect</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Multiple-fault system</li>
-</ul>
+  <h3 id="geometric-structure">Geometric structure</h3>
+  <ul class="task-list">
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Nonplanar fault</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Topographic effect</li>
+    <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Multiple-fault system</li>
+  </ul>
+</blockquote>
 
 <h2 id="new-branch">New branch</h2>
 <p>Since <a href="https://www.scec.org/user/zheqians">Zheqiang Shi</a>, <a href="https://ix.cs.uoregon.edu/~bae/">Brittany Erickson</a>, <a href="">Qian Yao</a> , <a href="https://www.scec.org/user/wsavran">Willian Savran</a> and <a href="https://wangyf.github.io/">Yongfei Wang</a> joined Steven Day’s rupture dynamics group, a new branch of SORD has been developed. Currently, Yongfei Wang is the chief maintainer who uses it as a simulator of a physically plausible earthquake to study earthquake parameters and its evolution. The original Support Operator Rupture Dynamics (SORD) code simulates spontaneous rupture within a 3D isotropic viscoelastic solid. Wave motions are computed on a logically rectangular hexahedral mesh, using the generalized finite difference method of support operators. Stiffness and viscous hourglass corrections are employed to suppress suppress zero-energy grid oscillation modes. The fault surface is modeled by coupled double nodes, where the strength of the coupling is determined by a linear slip-weakening friction law. External boundaries may be reflective or absorbing, where absorbing boundaries are handled using the method of perfectly matched layers (PML). The hexahedral mesh can accommodate non-planar ruptures and surface topography SORD simulations are configured with Python scripts. Underlying computations are coded in Fortran 95 and parallelized for multi-processor execution using Message Passing Interface (MPI). The code is portable and tested with a variety of Fortran 95 compilers, MPI implementations, and operating systems (Linux, Mac OS X, IBM AIX, SUN Solaris). The source code is stored in <a href="https://elygeo.net/coseis/index.html#sord">Ely’s github</a></p>

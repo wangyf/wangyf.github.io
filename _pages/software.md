@@ -12,27 +12,28 @@ permalink: /software/
 ![]({{ site.url }}{{ site.baseurl }}/images/software/Bigten.jpg){: style="width: 800px; float: center; border: 100px"}
 <br/>
 
-Source code at [here](https://github.com/wangyf/sordw3)
+
 --------------------------------------------------
-SORD latest version maintained by Yongfei Wang
+## SORD latest version maintained by Yongfei Wang
+#### Source code at [here](https://github.com/wangyf/sordw3)
 
-## Functional feature
-
-### Materials:
-- [x] Viscoelastic
-- [x] Plastoelastic
-- [x] Frequency-dependent Anelastic
-
-### Constitutive law
-- [x] Slip weakening
-- [x] Regularized rate and state
-- [x] Rate strengthening Slip weakening
-- [x] Thermal and porelastic response
-
-### Geometric structure
-- [x] Nonplanar fault
-- [x] Topographic effect
-- [ ] Multiple-fault system
+> ## Functional feature
+>
+> ### Materials:
+> - [x] Viscoelastic
+> - [x] Plastoelastic
+> - [x] Frequency-dependent Anelastic
+> 
+> ### Constitutive law
+> - [x] Slip weakening
+> - [x] Regularized rate and state
+> - [x] Rate strengthening Slip weakening
+> - [x] Thermal and porelastic response
+> 
+> ### Geometric structure
+> - [x] Nonplanar fault
+> - [x] Topographic effect
+> - [ ] Multiple-fault system
 
 
 ## New branch

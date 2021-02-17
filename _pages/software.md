@@ -47,8 +47,10 @@ Since [Zheqiang Shi](https://www.scec.org/user/zheqians), [Brittany Erickson](ht
 5. [Shi, Z. Q., and Day, S. M. (2013), Rupture dynamics and ground motion from 3-D rough-fault simulations, J. Geophys. Res., 118(3), 1122-1141](http://doi.org/10.1002/jgrb.50094)
 6. [Wang, Y., and Day, S. M. (2017), Seismic source spectral properties of crack-like and pulse-like modes of dynamic rupture, J. Geophys. Res., 122(8), 6657-6684](http://doi.org/10.1002/2017jb014454)
 7. [Wang, Y., Day, S. M. and Denolle, M. A. (2018), Geometric Controls on Pulse-like Rupture in a Dynamic Model of the 2015 Gorkha Earthquake, J. Geophys. Res., 124(2), 1544–1568](https://doi.org/10.1029/2018JB016602)
-8. [Wang, Y. and Day, S. M. (2020), Effects of off‐fault inelasticity on near‐fault directivity pulses, J. Geophys. Res., xxx](https://doi.org/10.1029/2019JB019074)
-
+8. [Withers, K. B., K. B. Olsen, S. M. Day, and Z. Shi (2019), Ground Motion and Intraevent Variability from 3D Deterministic Broadband (0–7.5 Hz) Simulations along a Nonplanar Strike‐Slip Fault, Bull Seism Soc Am, 109(1), 229-250, doi:10.1785/0120180006](https://doi:10.1785/0120180006)
+9. [Withers, K. B., K. B. Olsen, Z. Shi, and S. M. Day (2019), Validation of Deterministic Broadband Ground Motion and Variability from Dynamic Rupture Simulations of Buried Thrust Earthquakes, Bull Seism Soc Am, 109(1), 212-228, doi:10.1785/0120180005](https://doi:10.1785/0120180005)
+10. [Wang, Y., and S. M. Day (2020), Effects of Off‐Fault Inelasticity on Near‐Fault Directivity Pulses, J. Geophys. Res., Solid Earth, 125(7), doi:10.1029/2019jb019074](https://doi.org/10.1029/2019JB019074)
+11. [Savran, W. H., and K. B. Olsen (2020), Kinematic Rupture Generator Based on 3‐D Spontaneous Rupture Simulations Along Geometrically Rough Faults, J. Geophys. Res., Solid Earth, 125(10), doi:10.1029/2020jb019464](https://doi:10.1029/2020jb019464)
 
 ## Publications in which SORD is used
 
@@ -65,6 +67,7 @@ Since [Zheqiang Shi](https://www.scec.org/user/zheqians), [Brittany Erickson](ht
 - [Harris, R. A., et al. (2018), A Suite of Exercises for Verifying Dynamic Earthquake Rupture Codes, Seismol. Res. Lett., 89(3), 1146-1162](http://doi.org/10.1785/0220170222)
 - [Dalguer, L. A., H. Wu, Y. Matsumoto, K. Irikura, T. Takahama, and M. Tonagi (2019), Development of Dynamic Asperity Models to Predict Surface Fault Displacement Caused by Earthquakes, Pure Appl Geophys, 10.1007/s00024-019-02255-8](https://doi.org/10.1007/s00024-019-02255-8)
 
+
 ## Performance (weak scaling)
 23 single precision (four-byte) memory variables are required per mesh point. On current hardware, computation time is on the order of the one second per time step per one million mesh points. SORD scalability has been benchmarked up to 64 thousand processors at ALCF and Tacc. A great scaling has been achieved on the fifth fastest supercomputer (Frontera) in the world.
 
@@ -77,13 +80,14 @@ Since [Zheqiang Shi](https://www.scec.org/user/zheqians), [Brittany Erickson](ht
 ### 1992 Landers Earthquake Scenario
 #### Fault roughness + off-fault plasticity
 
-![]({{ site.url }}{{ site.baseurl }}/images/software/Landers-rough-scenario.png){: style="width: 600px; float: center; border: 100px"}
-<iframe width="300" height="400" src="https://www.youtube.com/embed/pbOSKR2AffI" frameborder="0" allowfullscreen></iframe>
-<iframe width="300" height="400" src="https://www.youtube.com/embed/WN4AjOXhevw" frameborder="0" allowfullscreen></iframe>
+![]({{ site.url }}{{ site.baseurl }}/images/software/Landers-rough-scenario.png){: style="width: 800px; float: center; border: 100px"}
+<!-- <iframe width="300" height="400" src="https://www.youtube.com/embed/pbOSKR2AffI" frameborder="0" allowfullscreen></iframe> -->
+<!-- <iframe width="300" height="400" src="https://www.youtube.com/embed/WN4AjOXhevw" frameborder="0" allowfullscreen></iframe> -->
+ <iframe width="800" height="700" src="https://www.youtube.com/embed/JsAIn59pa_Y" frameborder="0" allowfullscreen></iframe>
 
 #### Ground-motion sanity check
 
-![]({{ site.url }}{{ site.baseurl }}/images/software/Landers-rough-scenario-sanity.png){: style="width: 600px; float: center; border: 100px"}
+![]({{ site.url }}{{ site.baseurl }}/images/software/LandersGM.png){: style="width: 800px; float: center; border: 100px"}
 
 
 ## Development logs

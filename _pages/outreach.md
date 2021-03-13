@@ -21,3 +21,8 @@ Since 2017, SCEC and the Hero and You Foundation have been working together to c
 
 [<strong>地震安全游戏书</strong>]({{ site.baseurl }}/pdf/RocketRules_Chinese.pdf)
 <br/>
+
+--------------------
+### <span style="color: red"> 7 Steps to Earthquake Safety</span> 
+
+![]({{ site.url }}{{ site.baseurl }}/images/Misc/7steps.png){: style="height: 1020px; float: center; border: 100px"}

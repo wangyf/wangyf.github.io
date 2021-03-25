@@ -23,16 +23,16 @@
   volume: submitted
   doi: 
   year: 2021
-  image: 
+  image: wanggoulet21.png
   description: 
   key1: 
   key2: 
   key3: 
   authors: <strong>Yongfei Wang</strong>, Christine A. Goulet
-  highlight: 0
+  highlight: 1
   news2: 
   news2link: 
-  pdf: 
+  pdf: wanggoulet21.pdf
   cat: submitted
 
 
@@ -41,14 +41,14 @@
   journal: Bulletin of the Seismological Society of America
   volume: submitted
   doi: 
-  year: 2020
-  image: 
+  year: 2021
+  image: Goulet21.jpg
   description: 
   key1: 
   key2: 
   key3: 
   authors: Christine A. Goulet, <strong>Yongfei Wang</strong>, Chukwuebuka C. Nweke, Bo-xiang Tang, Pengfei Wang, Kenneth S. Hudson, Sean K. Ahdi, Xiaofeng Meng, Martin B. Hudson, Andrea Donnellan, Greg Lyzenga, Scott J. Brandenberg, Jonathan P. Stewart, Timu Gallien, Maria A. Winters and Kenneth W. Hudnut
-  highlight: 0
+  highlight: 1
   news2: 
   news2link: 
   pdf: 

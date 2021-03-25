@@ -2,7 +2,7 @@
 title: "Talks and Videos"
 layout: gridlay
 excerpt: "Talks"
-permalink: /talks/
+permalink: /talksvideos/
 ---
 
 # Talks 

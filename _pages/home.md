@@ -49,7 +49,7 @@ I'm a Postdoc Scholar at [<span style="color:red">*Southern California Earthquak
 #### **Eduction**
 * Ph.D in Geophysics (2019)<br/>
     Joint UCSD/SDSU Geophysics PhD Program<br/>
-    Advisor: Steven Day, Peter Shearer<br/>
+    Committee: Steven Day (co-Chair), Peter Shearer (co-Chair), Kim Olsen, Yuri Fialko, Sam Shen and Jiun-Shyan(JS) Chen<br/>
 * B.S in Geophysics (2013)<br/>
     University of Science and Technology of China <br/>
     Advisor: Sidao Ni<br/>

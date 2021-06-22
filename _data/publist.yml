@@ -32,6 +32,8 @@
   highlight: 1
   news2: 
   news2link: 
+  news3: 
+  news3link: 
   pdf: wanggoulet21.pdf
   cat: submitted
 
@@ -51,6 +53,8 @@
   highlight: 1
   news2: 
   news2link: 
+  news3: 
+  news3link: 
   pdf: 
   cat: submitted
 
@@ -71,6 +75,8 @@
   highlight: 1
   news2: 
   news2link: 
+  news3: 
+  news3link: 
   pdf: wangday20.pdf
   cat: journal
 
@@ -91,6 +97,8 @@
   highlight: 1
   news2: 
   news2link: 
+  news3: 
+  news3link: 
   pdf: wangdaydenolle19.pdf
   cat: journal
 
@@ -110,9 +118,9 @@
     display:  doi:10.1002/2017jb014454
   highlight: 1
   news2: JGR Editor's Highlights
-  news2link: https://agupubs.onlinelibrary.wiley.com/article/10.1002/2017JB014454/editor-highlight/10.5555/MIG-HO.70c8279d-225f-4af4-8581-1d9be198e452
+  news2link: https://agupubs.onlinelibrary.wiley.com/article/10.1002/2017JB014454/editor-highlight/10.5555/MIG-HO.70c8279d-225f-4af4-8581-1d9be198e452 
   news3: Model repository
-  new3link: https://github.com/wangyf/Pulselike_rupture_models
+  news3link: https://github.com/wangyf/Pulselike_rupture_models
   pdf: wangday17.pdf
   cat: journal
 
@@ -134,6 +142,8 @@
   highlight: 1
   news2: 
   news2link: 
+  news3: 
+  news3link: 
   pdf: niewangolsenday17.pdf
   cat: journal
 
@@ -157,6 +167,8 @@
   highlight: 0
   news2: 
   news2link: 
+  news3: 
+  news3link: 
   pdf: wang19.pdf
   cat: nonjournal
 

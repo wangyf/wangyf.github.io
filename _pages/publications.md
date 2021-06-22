@@ -34,7 +34,7 @@ permalink: /publications/
   <p><em><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></em> [<strong>PDF</strong>]({{ site.baseurl }}/pdf/{{publi.pdf}}) </p>
   <p> </p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> [{{ publi.news2 }}]({{publi.news2link}})[{{ publi.news3 }}]({{publi.news3link}})</p>
+  <p> [{{ publi.news2 }}]({{publi.news2link}}).  [{{ publi.news3 }}]({{publi.news3link}})</p>
   <p> 1. {{publi.key1}}</p>
   <p> 2. {{publi.key2}}</p>
   <p> 3. {{publi.key3}}</p>

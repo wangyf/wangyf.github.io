@@ -65,7 +65,6 @@ I'm a Postdoc Scholar at [<span style="color:red">*Southern California Earthquak
 * High-performance Computation
 * 3D Visualization
 
-<br/>
 #### **Research Highlights <a href="{{ site.url }}{{ site.baseurl }}/publications">link</a>** 
 -----------------------
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

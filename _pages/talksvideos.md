@@ -8,10 +8,10 @@ permalink: /talksvideos/
 # Talks 
 --------------------
 ### Landers fault displacement simulation on TACC Frontera (as part of SCEC) is highlighted by Intel, Dell and TACC
-
-https://www.intel.com/content/www/us/en/high-performance-computing/frontera-earthquake-research-video.html
+This is a [Intel Link](https://www.intel.com/content/www/us/en/high-performance-computing/frontera-earthquake-research-video.html)
 
 Narrator: Christine Goulet
+
 <!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/9WnUkMo6Ui8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 --------------------
 #### 2021 SSA Annual Meeting

@@ -20,8 +20,8 @@
 
 - title: "Validation of fault displacements from dynamic rupture simulations against the observations from the 1992 Landers earthquake"
   journal: Bulletin of the Seismological Society of America
-  volume: submitted
-  doi: 
+  volume: "Special Section: Fault Displacement and Near-Source Ground-Motion Models"
+  doi: 10.1785/0120210082
   year: 2021
   image: wanggoulet21.png
   description: 
@@ -35,13 +35,13 @@
   news3: 
   news3link: 
   pdf: wanggoulet21.pdf
-  cat: submitted
+  cat: journal
 
 
 
 - title: "Comparison of Near-Fault Displacement Interpretations from Field and Aerial Data for the M6.4 and M7.1 Ridgecrest Earthquake Sequence Ruptures"
   journal: Bulletin of the Seismological Society of America
-  volume: submitted
+  volume: "Special Section: Fault Displacement and Near-Source Ground-Motion Models"
   doi: 
   year: 2021
   image: Goulet21.jpg
@@ -56,7 +56,7 @@
   news3: 
   news3link: 
   pdf: 
-  cat: submitted
+  cat: journal
 
 - title: "Effects of off‐fault inelasticity on near‐fault directivity pulses"
   journal: Journal of Geophysical Research-Solid Earth

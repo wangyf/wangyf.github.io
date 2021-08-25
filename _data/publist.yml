@@ -42,20 +42,20 @@
 - title: "Comparison of Near-Fault Displacement Interpretations from Field and Aerial Data for the M6.4 and M7.1 Ridgecrest Earthquake Sequence Ruptures"
   journal: Bulletin of the Seismological Society of America
   volume: "Special Section: Fault Displacement and Near-Source Ground-Motion Models"
-  doi: 
+  doi: 10.1785/0120200222
   year: 2021
   image: Goulet21.jpg
   description: 
-  key1: 
-  key2: 
-  key3: 
+  key1: Engineering infrastructure seismic design is often controlled by potential fault displacements.
+  key2: Accurate quantification of on- and off-fault displacements is needed for scientific and engineering modeling.
+  key3: Collection with cross-validation of displacement data from complementary methods (field and aerial) is ideal
   authors: Christine A. Goulet, <strong>Yongfei Wang</strong>, Chukwuebuka C. Nweke, Bo-xiang Tang, Pengfei Wang, Kenneth S. Hudson, Sean K. Ahdi, Xiaofeng Meng, Martin B. Hudson, Andrea Donnellan, Greg Lyzenga, Scott J. Brandenberg, Jonathan P. Stewart, Timu Gallien, Maria A. Winters and Kenneth W. Hudnut
   highlight: 1
   news2: 
   news2link: 
   news3: 
   news3link: 
-  pdf: 
+  pdf: gouletetal21.pdf
   cat: journal
 
 - title: "Effects of off‐fault inelasticity on near‐fault directivity pulses"

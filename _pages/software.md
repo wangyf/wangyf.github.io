@@ -51,6 +51,7 @@ Since [Zheqiang Shi](https://www.scec.org/user/zheqians), [Brittany Erickson](ht
 9. [Withers, K. B., K. B. Olsen, Z. Shi, and S. M. Day (2019), Validation of Deterministic Broadband Ground Motion and Variability from Dynamic Rupture Simulations of Buried Thrust Earthquakes, Bull Seism Soc Am, 109(1), 212-228, doi:10.1785/0120180005](https://doi:10.1785/0120180005)
 10. [Wang, Y., and S. M. Day (2020), Effects of Off‐Fault Inelasticity on Near‐Fault Directivity Pulses, J. Geophys. Res., Solid Earth, 125(7), doi:10.1029/2019jb019074](https://doi.org/10.1029/2019JB019074)
 11. [Savran, W. H., and K. B. Olsen (2020), Kinematic Rupture Generator Based on 3‐D Spontaneous Rupture Simulations Along Geometrically Rough Faults, J. Geophys. Res., Solid Earth, 125(10), doi:10.1029/2020jb019464](https://doi:10.1029/2020jb019464)
+12. [Wang, Y., and G. A. Goulet(2021), Validation of fault displacements from dynamic rupture simulations against the observations from the 1992 Landers earthquake, Bulletin of the Seismological Society of America, Special Section: Fault Displacement and Near-Source Ground-Motion Models](https://doi.org/10.1785/0120210082)
 
 ## Publications in which SORD is used
 

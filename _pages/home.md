@@ -88,25 +88,35 @@ I'm a Postdoc Research Associate at [<span style="color:red">*Southern Californi
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
+            <a href='https://www.hpcwire.com/off-the-wire/hpcwire-reveals-winners-of-the-2021-readers-and-editors-choice-awards-during-sc21/'>
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/HPC_2021.jpeg" alt="Slide 1" style="width: 400px; height: 400px; float: center; border: 20px"/>
+            </a>
         </div>
         <div class="item">
+            <a href='https://sc21.cels.anl.gov/extreme-scale-simulations-for-advanced-seismic-ground-motion-and-hazard-modeling'>
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/ALCFSC21.png" alt="Slide 2" style="width: 600px; height: 400px; float: center; border: 20px"/>
+            </a>
         </div>
         <div class="item">
+            <a href="{{ site.url }}{{ site.baseurl }}/pdf/wanggoulet21.pdf">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wanggoulet21.png" alt="Slide 3" style="width: 600px; height: 400px; float: center; border: 20px"/>
+            </a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Goulet21.jpg" alt="Slide 4" style="width: 600px; height: 400px; float: center; border: 20px"/>
+            <a href="{{ site.url }}{{ site.baseurl }}/pdf/gouletetal21.pdf">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Goulet21.jpg" alt="Slide 4" style="width: 600px; height: 400px; float: center; border: 20px"/></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wangday20.jpg" alt="Slide 5" style="width: 600px; height: 400px; float: center; border: 20px"/>
+            <a href="{{ site.url }}{{ site.baseurl }}/pdf/wangday20.pdf">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wangday20.jpg" alt="Slide 5" style="width: 600px; height: 400px; float: center; border: 20px"/></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wangdaydenolle19.jpg" alt="Slide 6" style="width: 600px; height: 400px; float: center; border: 20px"/>
+            <a href="{{ site.url }}{{ site.baseurl }}/pdf/wangdaydenolle19.pdf">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wangdaydenolle19.jpg" alt="Slide 6" style="width: 600px; height: 400px; float: center; border: 20px"/></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wangday17.jpg" alt="Slide 7" style="width: 600px; height: 400px; float: center; border: 20px"/>
+            <a href="{{ site.url }}{{ site.baseurl }}/pdf/wangday17.pdf">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/wangday17.jpg" alt="Slide 7" style="width: 600px; height: 400px; float: center; border: 20px"/></a>
         </div>
 <!--         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />

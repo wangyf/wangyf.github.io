@@ -7,6 +7,13 @@ permalink: /talksvideos/
 
 # Talks 
 --------------------
+#### 2022 ASCE UCLA Lifelines 2022 Conference
+--------------------
+#### Constraining Near-Surface Fault Displacements Using Physics-Based Dynamic Simulations
+<iframe width="800" height="450" src="https://www.youtube.com/embed/FE4ay-TdZgE" frameborder="0" allowfullscreen></iframe>
+
+--------------------
+
 ### Landers fault displacement simulation on TACC Frontera (as part of SCEC) is highlighted by Intel, Dell and TACC
 This is a [Intel Link](https://www.intel.com/content/www/us/en/high-performance-computing/frontera-earthquake-research-video.html)
 

@@ -56,7 +56,7 @@
   link:
     url: https://pubs.geoscienceworld.org/ssa/bssa/article/111/5/2317/607153/Comparison-of-Near-Fault-Displacement
     display:  doi:10.1785/0120200222
-  highlight: 1
+  highlight: 0
   news2: 
   news2link: 
   news3: 
@@ -145,7 +145,7 @@
   link:
     url: https://pubs.geoscienceworld.org/ssa/bssa/article/107/5/2183/506706/fourth-order-staggered-grid-finite-difference
     display:  doi:10.1785/0120170077
-  highlight: 1
+  highlight: 0
   news2: 
   news2link: 
   news3: 

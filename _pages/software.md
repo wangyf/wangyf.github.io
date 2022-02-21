@@ -69,10 +69,10 @@ Since [Zheqiang Shi](https://www.scec.org/user/zheqians), [Brittany Erickson](ht
 - [Dalguer, L. A., H. Wu, Y. Matsumoto, K. Irikura, T. Takahama, and M. Tonagi (2019), Development of Dynamic Asperity Models to Predict Surface Fault Displacement Caused by Earthquakes, Pure Appl Geophys, 10.1007/s00024-019-02255-8](https://doi.org/10.1007/s00024-019-02255-8)
 
 
-## Performance (weak scaling)
-23 single precision (four-byte) memory variables are required per mesh point. On current hardware, computation time is on the order of the one second per time step per one million mesh points. SORD scalability has been benchmarked up to 64 thousand processors at ALCF and Tacc. A great scaling has been achieved on the fifth fastest supercomputer (Frontera) in the world.
+## Performance (strong and weak scaling)
+23 single precision (four-byte) memory variables are required per mesh point. On current hardware, computation time is on the order of the one second per time step per one million mesh points. SORD scalability has been benchmarked up to 131 thousand processors at Theta (ALCF) and Fronteta (TACC).
 
-![]({{ site.url }}{{ site.baseurl }}/images/software/SORD-Benchmark.svg){: style="width: 300px; float: center; border: 100px"}
+![]({{ site.url }}{{ site.baseurl }}/images/software/scaling_theta.png){: style="width: 500px; float: center; border: 100px"}
 ![]({{ site.url }}{{ site.baseurl }}/images/software/Frontera.jpg){: style="width: 400px; float: center; border: 100px"}
 
 

@@ -138,10 +138,9 @@ I'm a Postdoc Research Associate at [<span style="color:red">*Southern Californi
   </a>
 </div>
 
-
-
+-----------------------------------
+#### Leave me a message
 <html>
-<strong> Leave me a message? </strong>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkyozkl" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>

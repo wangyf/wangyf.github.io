@@ -11,7 +11,7 @@ email: yongfeiw@usc.edu
 description: > # this means to ignore newlines until "baseurl:"
   Dr. Yongfei Wang's academic hub (QuakeSim).
 baseurl: ""
-url: ""
+url: "https://wangyf.github.io"
 
 include:
   - .htaccess

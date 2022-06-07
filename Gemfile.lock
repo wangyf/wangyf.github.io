@@ -262,7 +262,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   kramdown (>= 2.3.0)
-  webrick (~> 1.7)
+  webrick
 
 BUNDLED WITH
    2.2.27

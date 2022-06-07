@@ -28,6 +28,9 @@ Narrator: [Christine Goulet](https://www.scec.org/user/goulet)
 Narrator: Christine Goulet
 <iframe width="800" height="450" src="https://www.youtube.com/embed/9WnUkMo6Ui8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

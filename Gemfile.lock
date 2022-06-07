@@ -261,7 +261,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-theme-midnight
   kramdown (>= 2.3.0)
   webrick (~> 1.7)
 

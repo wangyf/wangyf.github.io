@@ -83,19 +83,9 @@
   news2link: 
   news3: 
   news3link: 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   pdf: gouletetal21.pdf
   cat: journal
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-  pdf: 
-  cat: submitted
->>>>>>> Stashed changes
+
 
 - title: "Effects of off‐fault inelasticity on near‐fault directivity pulses"
   journal: Journal of Geophysical Research-Solid Earth

@@ -7,6 +7,7 @@ permalink: /talksvideos/
 
 # Talks 
 --------------------
+<<<<<<< Updated upstream
 #### 2022 ASCE UCLA Lifelines 2022 Conference
 --------------------
 #### Constraining Near-Surface Fault Displacements Using Physics-Based Dynamic Simulations
@@ -22,6 +23,11 @@ Narrator: [Christine Goulet](https://www.scec.org/user/goulet)
 <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/HPC_2021.jpeg" alt="Markdown Monster icon" style="float: center; margin-right: 10px;"/>
 
 <!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/9WnUkMo6Ui8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+=======
+### Landers fault displacement simulation on TACC Frontera (as part of SCEC) is highlighted by DellHPC 
+Narrator: Christine Goulet
+<iframe width="800" height="450" src="https://www.youtube.com/embed/9WnUkMo6Ui8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>>>>>>> Stashed changes
 --------------------
 #### 2021 SSA Annual Meeting
 --------------------

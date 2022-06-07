@@ -13,15 +13,15 @@ permalink: /
   <div class="col-md-4">
 <img src="{{ site.url }}{{ site.baseurl }}/images/portrait.png" style="width: 200px">
   </div>
-  <div class="col-md-8">
+  <div class="col-md-6">
 
+<!-- <br/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 
 #### **About me**
 
-I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold">Southern California Earthquake Center (SCEC)</span>](https://www.scec.org), [<span style="color:darkred;font-weight:bold">University of Southern California</span>](https://www.usc.edu). I work on observability of rupture dynamics and earthquake ground-motion and fault-displacement simulations
+I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold">Southern California Earthquake Center (SCEC)</span>](https://www.scec.org), [<span style="color:darkred;font-weight:bold">University of Southern California (USC)</span>](https://www.usc.edu). I work on observability of rupture dynamics and earthquake ground-motion and fault-displacement simulations
   </div>
 </div>
 
@@ -61,7 +61,8 @@ I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold
 #### **Research Area:**  
 * Earthquake Surface Rupture  
 * Earthquake Rupture Dynamics
-* Earthquake Strong Ground Motion
+* Earthquake Hazard: Ground Motion
+* Earthquake Hazard: Fault Displacement
 * High-performance Computation
 * 3D Visualization
 

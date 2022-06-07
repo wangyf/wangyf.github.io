@@ -1,5 +1,12 @@
 # - date: 06. August 2019
   # headline: "PhD defense! <a href='https://arxiv.org/abs/1901.00149'>is on arXiv</a>. <img src='/images/newspic/SFnews.png' class='img-responsive' style='max-width: 192px' />"
+- date: June 14, 2022
+  headline: "<b>Paper alert!</b> Variability of Spectral Estimates of Stress Drop Reconciled by Radiated Energy"
+
+- date: June 13, 2022
+  headline: "<b>SCEC SOURCES INTERN starts today!</b> Rena Wu from UCSD starts her intern research with SCEC TEAM (Christine Goulet and I): A Performance-portable Implementation of Earthquake Dynamic Rupture Simulation Targeting Upcoming Future High-Performance Computers. <a href='https://github.com/wangyf/SCEC-SOURCES-Kokkos'>Link</a>
+<img src='/images/newspic/scecsources.png' class='img-responsive' style='max-width: 192px' />"
+
 - date: Feb 9, 2022
   headline: "My oral presention in  2022 ASCE UCLA Lifelines 2022 Conference \"Constraining Near-Surface Fault Displacements Using Physics-Based Dynamic Simulations\" <a href='https://www.youtube.com/watch?v=FE4ay-TdZgE/'>Link</a>
 <img src='/images/newspic/lifeilnes.jpeg' class='img-responsive' style='max-width: 192px' />"

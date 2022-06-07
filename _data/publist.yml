@@ -17,6 +17,28 @@
 #   news2link: 
 #	PDF
 
+- title: "Variability of Spectral Estimates of Stress Drop Reconciled by Radiated Energy"
+  journal: Bulletin of the Seismological Society of America
+  volume: 
+  doi: 
+  year: 2022
+  image: chen22.png
+  description: 
+  key1: 
+  key2: 
+  key3: 
+  authors: Chen Ji, Ralph J. Archuleta, <strong>Yongfei Wang</strong>
+  link:
+    url: https://pubs.geoscienceworld.org/ssa/bssa/article/111/5/2574/606838/Validation-of-Fault-Displacements-from-Dynamic
+    display:  doi:10.1785/0120210082
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: wanggoulet21.pdf
+  cat: journal
+
 
 - title: "Validation of fault displacements from dynamic rupture simulations against the observations from the 1992 Landers earthquake"
   journal: Bulletin of the Seismological Society of America

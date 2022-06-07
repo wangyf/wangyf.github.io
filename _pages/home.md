@@ -21,7 +21,7 @@ permalink: /
 
 #### **About me**
 
-I'm a Postdoc Research Associate at [<span style="color:red">*Southern California Earthquake Center (SCEC)*</span>](https://www.scec.org), [<span style="color:red">*University of Southern California*</span>](https://www.usc.edu). I work on observability of rupture dynamics and earthquake ground-motion and fault-displacement simulations
+I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold">Southern California Earthquake Center (SCEC)</span>](https://www.scec.org), [<span style="color:darkred;font-weight:bold">University of Southern California</span>](https://www.usc.edu). I work on observability of rupture dynamics and earthquake ground-motion and fault-displacement simulations
   </div>
 </div>
 

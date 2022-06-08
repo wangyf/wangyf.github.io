@@ -69,6 +69,7 @@ I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold
 
 <!-- ### **Blogs** -->
 [*Blogs*](/blogs)
+[*Analytics*](https://analytics.google.com/analytics/web/#/p317749930/reports/intelligenthome?params=_u..nav%3Dmaui&collectionId=life-cycle)
 
 #### **Research Highlights <a href="{{ site.url }}{{ site.baseurl }}/publications">link</a>** 
 -----------------------

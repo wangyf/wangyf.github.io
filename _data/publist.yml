@@ -20,23 +20,23 @@
 - title: "Variability of Spectral Estimates of Stress Drop Reconciled by Radiated Energy"
   journal: Bulletin of the Seismological Society of America
   volume: 
-  doi: 
+  doi:  doi:10.1785/0120210321
   year: 2022
   image: chen22.png
   description: 
-  key1: 
-  key2: 
-  key3: 
+  key1: Δσs estimated using the conventional M0 & fc methods strongly depend on the particular theoretical spectral model
+  key2: Model-dependent variability of spectral estimates of Δσs can be largely reconciled using radiated energy ER
+  key3: Robust stress drop estimates are important for seismological studies and engineering applications
   authors: Chen Ji, Ralph J. Archuleta, <strong>Yongfei Wang</strong>
   link:
-    url: https://pubs.geoscienceworld.org/ssa/bssa/article/111/5/2574/606838/Validation-of-Fault-Displacements-from-Dynamic
-    display:  doi:10.1785/0120210082
+    url: https://pubs.geoscienceworld.org/ssa/bssa/article/doi/10.1785/0120210321/614402/Variability-of-Spectral-Estimates-of-Stress-Drop
+    display:  doi:10.1785/0120210321
   highlight: 1
   news2: 
   news2link: 
   news3: 
   news3link: 
-  pdf: wanggoulet21.pdf
+  pdf: chen2022.pdf
   cat: journal
 
 

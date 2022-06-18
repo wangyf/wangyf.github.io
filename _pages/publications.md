@@ -26,7 +26,7 @@ permalink: /publications/
 <div class="col-sm-15 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 400px; height: 250px; float: left; border: 20px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 500px; height: 300px; float: left; border: 20px" />
   <p></p>
   <p>{{ publi.description }}</p>
   <p>{{ publi.authors }}</p>
@@ -36,9 +36,9 @@ permalink: /publications/
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> [{{ publi.news2 }}]({{publi.news2link}})</p>
   <p> [{{ publi.news3 }}]({{publi.news3link}})</p>
-  <p> 1. {{publi.key1}}</p>
-  <p> 2. {{publi.key2}}</p>
-  <p> 3. {{publi.key3}}</p>
+  <p><small> 1. {{publi.key1}}</small></p>
+  <p><small> 2. {{publi.key2}}</small></p>
+  <p><small> 3. {{publi.key3}}</small></p>
   <p> <br><br></p>
 
  </div>

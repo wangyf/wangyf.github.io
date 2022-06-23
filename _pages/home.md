@@ -10,19 +10,19 @@ permalink: /
 
 
 <div class="row">
-  <div class="col-md-4">
-<img src="{{ site.url }}{{ site.baseurl }}/images/portrait.png" style="width: 200px">
-  </div>
-  <div class="col-md-6">
 
-<!-- <br/>
-<br/>
-<br/> -->
+  <div class="col-md-6">
 
 #### **About me**
 
 I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold">Southern California Earthquake Center (SCEC)</span>](https://www.scec.org), [<span style="color:darkred;font-weight:bold">University of Southern California (USC)</span>](https://www.usc.edu). I work on observability of rupture dynamics and earthquake ground-motion and fault-displacement simulations
   </div>
+
+<div class="col-md-6">
+<img src="{{ site.url }}{{ site.baseurl }}/images/portrait.png" style="width: 250px">
+</div>
+
+
 </div>
 
 

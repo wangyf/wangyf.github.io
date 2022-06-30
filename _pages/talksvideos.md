@@ -6,6 +6,13 @@ permalink: /talksvideos/
 ---
 
 # Talks 
+
+--------------------
+#### 2022 12th National Conference of Earthquake Engineering, Salt Lake City
+--------------------
+#### Constraining Near-Surface Fault Displacements Using Physics-Based Dynamic Simulations
+<iframe width="800" height="450" src="https://www.youtube.com/embed/atRyDVIKtLg" frameborder="0" allowfullscreen></iframe>
+
 --------------------
 #### 2022 ASCE UCLA Lifelines 2022 Conference
 --------------------

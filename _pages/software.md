@@ -9,7 +9,7 @@ permalink: /software/
 # SORD
 ## 3D Support Operator Rupture Dynamics
 
-![]({{ site.url }}{{ site.baseurl }}/images/software/high_res3.png){: style="width: 800px; float: center; border: 100px"}
+![]({{ site.url }}{{ site.baseurl }}/images/software/waves.gif){: style="width: 1000px; float: center; border: 100px"}
 <br/>
 
 

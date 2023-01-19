@@ -141,7 +141,7 @@ I'm a Research Scientist at [<span style="color:dodgerblue;font-weight:bold">Ver
   </a>
 </div>
 
------------------------------------
+<!-- -----------------------------------
 #### Leave me a message
 <html>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkyozkl" method="post">
@@ -264,7 +264,7 @@ I'm a Research Scientist at [<span style="color:dodgerblue;font-weight:bold">Ver
 }
 </style>
 
-</html>
+</html> -->
 
 <br/>
 <br/>

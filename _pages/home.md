@@ -1,7 +1,7 @@
 ---
 title: "QuakeSim Yongfei Wang"
 layout: homelay
-excerpt: "Yongfei Wang @ SCEC, USC."
+excerpt: "Yongfei Wang @ Verisk."
 sitemap: false
 permalink: /
 ---
@@ -15,7 +15,7 @@ permalink: /
 
 #### **About me**
 
-I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold">Southern California Earthquake Center (SCEC)</span>](https://www.scec.org), [<span style="color:darkred;font-weight:bold">University of Southern California (USC)</span>](https://www.usc.edu). I work on the earthquake rupture dynamic and earthquake ground-motion and fault-displacement hazard via high-performance computing
+I'm a Research Scientist at [<span style="color:dodgerblue;font-weight:bold">Verisk Extreme Event Solution (used to be Air Worldwide)</span>](https://www.air-worldwide.com/). I now work on seismic hazard forecast (PSHA and PFDHA). I used to study the earthquake rupture dynamic and earthquake ground-motion and fault-displacement hazard via high-performance computing
   </div>
 
 <div class="col-md-6">
@@ -36,11 +36,12 @@ I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold
 <br/> -->
 <div class="row">
 <div class="col-md-15">   
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scec.png" class="img-rounded" alt="Responsive image" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usc.jpg" class="img-rounded" alt="Responsive image" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scripps.png" class="img-rounded" alt="Responsive image" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" class="img-rounded" alt="Responsive image" style="height: 100px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sdsu.png" class="img-rounded" alt="Responsive image" style="height: 100px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AIR_Worldwide's_logo.jpg" class="img-rounded" alt="Responsive image" style="height: 80px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scec.png" class="img-rounded" alt="Responsive image" style="height: 80px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usc.jpg" class="img-rounded" alt="Responsive image" style="height: 80px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/scripps.png" class="img-rounded" alt="Responsive image" style="height: 80px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" class="img-rounded" alt="Responsive image" style="height: 80px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sdsu.png" class="img-rounded" alt="Responsive image" style="height: 80px">
 </div>
 </div>
 
@@ -189,8 +190,8 @@ I'm a Postdoc Research Associate at [<span style="color:darkred;font-weight:bold
 #fs-frm select,
 #fs-frm textarea,
 #fs-frm #card-element {
-  border: 4px solid rgba(153, 27, 30,0.6);
-  background-color: rgba(255, 199, 44,0.6);
+  border: 4px solid gray;
+  background-color: lightblue;
   padding: .75em 1rem;
   margin-bottom: 1.5rem;
 }

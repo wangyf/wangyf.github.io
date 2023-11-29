@@ -16,6 +16,28 @@
 #   news2: 
 #   news2link: 
 #	PDF
+- title: "A seismologically consistent surface rupture length model for unbounded and width-limited events"
+  journal: Earthquake Spectra
+  volume: In press
+  doi:  doi:10.1177/87552930231205871
+  year: 2023
+  image: lavrentiadisetal2023.jpg
+  description: 
+  key1: A new surface-rupture-length (SRL) relationship
+  key2: Use both empirical and physics-based surface rupture datasets
+  key3: Favor the model that the average displacement is propoportional to square root of rupture area
+  authors: Grigorios Lavrentiadis, <strong>Yongfei Wang</strong>, Norman A Abrahamson, Yousef Bozorgnia and Christine Goulet
+  link:
+    url: https://journals.sagepub.com/doi/full/10.1177/87552930231205871
+    display:  doi:10.1177/87552930231205871
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: lavrentiadisetal2023.pdf
+  cat: journal
+
 
 - title: "Variability of Spectral Estimates of Stress Drop Reconciled by Radiated Energy"
   journal: Bulletin of the Seismological Society of America

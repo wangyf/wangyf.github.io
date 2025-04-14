@@ -15,7 +15,7 @@ permalink: /
 
 #### **About me**
 
-I'm a research scientist at [<span style="color:dodgerblue;font-weight:bold">Verisk Extreme Event Solution (used to be Air Worldwide)</span>](https://www.air-worldwide.com/). I now work on seismic hazard forecast (PSHA and PFDHA). I used to study the earthquake rupture dynamic and earthquake ground-motion and fault-displacement hazard via high-performance computing
+I'm a Senior Research Scientist (Lead, Data Science and Business Intelligence Generalist) at [<span style="color:dodgerblue;font-weight:bold">Verisk Extreme Event Solution (used to be Air Worldwide)</span>](https://www.air-worldwide.com/). I now work on seismic hazard forecast (PSHA and PFDHA). I used to study the earthquake rupture dynamic and earthquake ground-motion and fault-displacement hazard via high-performance computing
   </div>
 
 <div class="col-md-6">

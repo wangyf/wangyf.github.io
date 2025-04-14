@@ -16,6 +16,30 @@
 #   news2: 
 #   news2link: 
 #	PDF
+
+- title: "Comparison of FDHI Fault Displacement Models"
+  journal: Natural Hazards Risk & Resiliency Research Center Report
+  volume: In press
+  doi:  doi:10.34948/N3W88V
+  year: 2024
+  image: FDHI.png
+  description: 
+  key1: 
+  key2: 
+  key3: 
+  authors: Grigorios Lavrentiadis, <strong>Yongfei Wang</strong>, Norman A Abrahamson, Yousef Bozorgnia and Christine Goulet
+  link:
+    url: https://www.risksciences.ucla.edu/girs-reports/2022/10
+    display:  doi:10.1177/87552930231205871
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: GIRS-2022-10_REV+01.29.2025.pdf
+  cat: journal
+
+  
 - title: "A seismologically consistent surface rupture length model for unbounded and width-limited events"
   journal: Earthquake Spectra
   volume: In press

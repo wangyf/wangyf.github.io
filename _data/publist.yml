@@ -16,6 +16,28 @@
 #   news2: 
 #   news2link: 
 #	PDF
+- title: "Revealing Spatial Variations of Earthquake Stress Drop and Peak Ground Acceleration Using a Non‐Ergodic Modeling Framework"
+  journal: Geophysical Research Letters
+  volume: In press
+  doi:  doi:10.1029/2024GL112043
+  year: 2025
+  image: grl68720-fig-0003-m.png
+  description: 
+  key1: We retrieve robust spatial repeatable patterns from stress drop and ground motion data sets of small earthquakes in the Bay Area
+  key2: A strong spatial correlation between stress drop and peak ground acceleration is unveiled by non-ergodic Gaussian Process regression
+  key3: Our extracted non-ergodic stress drop can represent regional source effects in ground motion, thus improving ground motion model prediction
+  authors: Shiying Nie and <strong>Yongfei Wang</strong>
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112043
+    display:  doi:10.1029/2024GL112043
+  highlight: 1
+  news2: 
+  news2link: 
+  news3: 
+  news3link: 
+  pdf: NieWang2025.pdf
+  cat: journal
+
 
 - title: "Comparison of FDHI Fault Displacement Models"
   journal: Natural Hazards Risk & Resiliency Research Center Report
@@ -27,7 +49,7 @@
   key1: 
   key2: 
   key3: 
-  authors: Grigorios Lavrentiadis, <strong>Yongfei Wang</strong>, Norman A Abrahamson, Yousef Bozorgnia and Christine Goulet
+  authors: Sarmiento, Alexandra; Lavrentiadis, Grigorios; Bozorgnia, Yousef; Chen, Rui; Chiou, Brian S.J.; Dawson, Timothy E.; Kottke, Albert; Kuehn, Nicolas; Kuo, Chun-Hsiang; Madugo, Chris; Milliner, Christopher W.D.; Moss, Robb; Thomas, Kate; Thompson, Stephen; Wang, Yongfei; Younesi, Kourosh; and Zandieh, Arash
   link:
     url: https://www.risksciences.ucla.edu/girs-reports/2022/10
     display:  doi:10.1177/87552930231205871
